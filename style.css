@@ -4,9 +4,16 @@ body {
 .nav-bar {
   display: flex;
   justify-content: space-between;
+  background-color: #330a04;
+  color: white;
+  border-radius: 10px 5px 6px;
+}
+
+.nav-bar button{
+    border-radius: 10px;
 }
 .promocao_do_dia {
-  background: red;
+  background: #6c1305;
   width: 350px;
   height: 200px;
   text-align: center;
@@ -29,7 +36,7 @@ body {
 .opcoes{
     width: 150px;
     height: 150px;
-    background-color: rgb(255, 9, 9);
+    background-color: #6c1305;
     padding: 0rem 0rem;
     border-radius: 20px;
     border-radius: 25px;
