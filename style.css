@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
+.promocao_do_dia {
+  background: red;
+  width: 305px;
+  height: 200px;
+  text-align: center;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px rgb(85, 85, 85);
+}
+
+.edit {
+  display: flex;
+}
+.edit p {
+  padding: 1.5rem 2rem;
+}
+.opcoes_divisao{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.8rem ;
+}
+.opcoes{
+    width: 120px;
+    height: 100px;
+    background-color: rgb(255, 9, 9);
+    padding: 0rem 0rem;
+    border-radius: 20px;
+    border-radius: 25px;
+    box-shadow: 7px 7px 7px rgb(85, 85, 85);
+    text-align: center;
+
+}
