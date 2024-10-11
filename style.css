@@ -7,7 +7,7 @@ body {
 }
 .promocao_do_dia {
   background: red;
-  width: 305px;
+  width: 350px;
   height: 200px;
   text-align: center;
   border-radius: 25px;
@@ -26,8 +26,8 @@ body {
     padding: 0.8rem ;
 }
 .opcoes{
-    width: 120px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgb(255, 9, 9);
     padding: 0rem 0rem;
     border-radius: 20px;
